@@ -21348,7 +21348,7 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.4,102.1);
 		
 		createjs.Touch.enable(stage, true, true);
 		
-		
+		createjs.Ticker.timingMode = createjs.Ticker.RAF;
 		
 		var isTouch = true;
 		
@@ -22759,8 +22759,10 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.4,102.1);
 			soundMc.addEventListener("removed", removeListeners);
 		
 			function removeListeners(e) {
-		that.sound_sld.cursor.resetTrk(0 , totalFrm);
+		
 				that.sound_sld.stopReceivingOnTickSound = true;
+				
+				that.sound_sld.cursor.resetTrk(0 , totalFrm);
 				
 				that.sound_sld.mov = null;
 				createjs.Sound.stop();
