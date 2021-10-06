@@ -22704,6 +22704,8 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.4,102.1);
 						that.sound_sld.stopReceivingOnTickSound = true;
 		
 						that.sound_sld.cursor.mouseEnabled = false;
+						
+						console.log( 'getMeasuredFPS' , createjs.Ticker.getMeasuredFPS() );
 					}
 				}
 			}
