@@ -22591,8 +22591,6 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.4,102.1);
 		
 		function soundManager(soundMc) {
 		
-		
-			return ;
 			that.sound_sld.mov = soundMc;
 			sout = soundMc.name;
 		
