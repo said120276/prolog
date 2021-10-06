@@ -7648,7 +7648,7 @@ p.nominalBounds = new cjs.Rectangle(-2,-3.2,528,438.3);
 
 	// timeline functions:
 	this.frame_0 = function() {
-		this.stop();
+		//this.stop();
 	}
 
 	// actions tween:
@@ -22591,7 +22591,7 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.4,102.1);
 		
 		function soundManager(soundMc) {
 		
-		soundMc.play();
+		
 			return ;
 			that.sound_sld.mov = soundMc;
 			sout = soundMc.name;
