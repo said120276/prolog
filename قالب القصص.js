@@ -6484,7 +6484,7 @@ p.nominalBounds = new cjs.Rectangle(-14.9,-8.9,28.9,16.9);
 		
 				that.trk.x = sldWidth * rate;
 				that.rate = rate;
-		        that.parent.mov.gotoAndStop(that.totalFrm * that.rate);
+		       // that.parent.mov.gotoAndStop(that.totalFrm * that.rate);
 			}
 		}
 	}
@@ -19258,6 +19258,7 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.5,102);
 		stage.enableMouseOver(20);
 		
 		
+ createjs.Ticker.timingMode = createjs.Ticker.RAF;
 		
 		createjs.Touch.enable(stage, true, true);
 		
