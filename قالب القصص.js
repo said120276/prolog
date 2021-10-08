@@ -20638,7 +20638,7 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.5,102);
 		
 		
 		
-			//createjs.Ticker.on("tick", updateTRK);
+			createjs.Ticker.on("tick", updateTRK);
 		
 			function updateTRK() {
 		
