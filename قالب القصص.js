@@ -6380,7 +6380,7 @@ p.nominalBounds = new cjs.Rectangle(-14.9,-8.9,28.8,16.9);
 		
 				that.trk.x = sldWidth * rate;
 				that.rate = rate;
-		        that.parent.mov.gotoAndStop(that.totalFrm * that.rate);
+		        that.parent.mov.gotoAndStop(that.totalFrm * that.rate + 10);
 			}
 		}
 	}
@@ -7648,7 +7648,7 @@ p.nominalBounds = new cjs.Rectangle(-2,-3.2,528,438.3);
 
 	// timeline functions:
 	this.frame_0 = function() {
-		this.stop();
+		//this.stop();
 	}
 
 	// actions tween:
@@ -21348,7 +21348,7 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.4,102.1);
 		
 		createjs.Touch.enable(stage, true, true);
 		
-		
+		createjs.Ticker.timingMode = createjs.Ticker.RAF;
 		
 		var isTouch = true;
 		
@@ -22591,7 +22591,6 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.4,102.1);
 		
 		function soundManager(soundMc) {
 		
-		
 			that.sound_sld.mov = soundMc;
 			sout = soundMc.name;
 		
@@ -22705,6 +22704,8 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.4,102.1);
 						that.sound_sld.stopReceivingOnTickSound = true;
 		
 						that.sound_sld.cursor.mouseEnabled = false;
+						
+						console.log( 'getMeasuredFPS' , createjs.Ticker.getMeasuredFPS() );
 					}
 				}
 			}
@@ -22760,8 +22761,10 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.4,102.1);
 			soundMc.addEventListener("removed", removeListeners);
 		
 			function removeListeners(e) {
-		that.sound_sld.cursor.resetTrk(0 , totalFrm);
+		
 				that.sound_sld.stopReceivingOnTickSound = true;
+				
+				that.sound_sld.cursor.resetTrk(0 , totalFrm);
 				
 				that.sound_sld.mov = null;
 				createjs.Sound.stop();
