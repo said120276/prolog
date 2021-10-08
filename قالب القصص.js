@@ -34,22 +34,22 @@ lib.ssMetadata = [
 		{name:"قالب القصص_atlas_29", frames: [[0,808,1744,728],[0,0,1617,806]]},
 		{name:"قالب القصص_atlas_30", frames: [[0,638,1957,630],[0,0,1958,636]]},
 		{name:"قالب القصص_atlas_31", frames: [[0,1218,1617,752],[0,0,1003,1216]]},
-		{name:"قالب القصص_atlas_32", frames: [[0,0,1617,752],[0,1392,1861,603],[0,754,1813,636]]},
+		{name:"قالب القصص_atlas_32", frames: [[0,0,1617,752],[0,754,1813,636],[0,1392,1861,603]]},
 		{name:"قالب القصص_atlas_33", frames: [[0,0,1524,726],[0,728,1734,635],[0,1365,1617,680]]},
-		{name:"قالب القصص_atlas_34", frames: [[0,0,1524,720],[0,1393,1768,610],[0,722,1631,669]]},
-		{name:"قالب القصص_atlas_35", frames: [[0,0,1721,621],[0,623,1796,593],[0,1218,1826,579]]},
-		{name:"قالب القصص_atlas_36", frames: [[0,706,1518,687],[0,0,1490,704],[0,1395,1905,539]]},
-		{name:"قالب القصص_atlas_37", frames: [[0,1048,1524,645],[0,0,1920,523],[0,525,1906,521]]},
-		{name:"قالب القصص_atlas_38", frames: [[0,533,1617,605],[0,1140,1617,605],[0,0,1850,531]]},
-		{name:"قالب القصص_atlas_39", frames: [[0,607,1721,551],[0,0,1617,605],[0,1160,1490,635]]},
-		{name:"قالب القصص_atlas_40", frames: [[0,1270,1518,617],[0,0,1490,633],[0,635,1490,633]]},
-		{name:"قالب القصص_atlas_41", frames: [[0,616,1768,525],[0,0,1518,614],[0,1143,1904,483]]},
-		{name:"قالب القصص_atlas_42", frames: [[0,1102,1535,559],[0,0,1617,549],[0,551,1617,549]]},
-		{name:"قالب القصص_atlas_43", frames: [[0,944,1535,550],[0,1496,1535,550],[0,0,1801,470],[0,472,1801,470]]},
-		{name:"قالب القصص_atlas_44", frames: [[0,0,1524,550],[0,552,1524,549],[0,1103,1490,558]]},
+		{name:"قالب القصص_atlas_34", frames: [[0,0,1524,720],[0,722,1768,610],[0,1334,1721,621]]},
+		{name:"قالب القصص_atlas_35", frames: [[0,1176,1490,704],[0,0,1796,593],[0,595,1826,579]]},
+		{name:"قالب القصص_atlas_36", frames: [[0,0,1518,687],[0,1230,1920,523],[0,689,1905,539]]},
+		{name:"قالب القصص_atlas_37", frames: [[0,523,1524,645],[0,1170,1850,531],[0,0,1906,521]]},
+		{name:"قالب القصص_atlas_38", frames: [[0,0,1617,605],[0,607,1617,605],[0,1214,1617,605]]},
+		{name:"قالب القصص_atlas_39", frames: [[0,0,1721,551],[0,1190,1490,633],[0,553,1490,635]]},
+		{name:"قالب القصص_atlas_40", frames: [[0,1254,1518,614],[0,635,1518,617],[0,0,1490,633]]},
+		{name:"قالب القصص_atlas_41", frames: [[0,1012,2046,438],[0,0,1768,525],[0,1452,1617,549],[0,527,1904,483]]},
+		{name:"قالب القصص_atlas_42", frames: [[0,551,1535,559],[0,0,1617,549],[0,1112,1801,470]]},
+		{name:"قالب القصص_atlas_43", frames: [[0,472,1535,550],[0,1024,1535,550],[0,0,1801,470]]},
+		{name:"قالب القصص_atlas_44", frames: [[0,552,1524,549],[0,0,1524,550],[0,1103,1490,558]]},
 		{name:"قالب القصص_atlas_45", frames: [[0,0,1490,558],[0,560,1490,558],[0,1120,1490,558]]},
 		{name:"قالب القصص_atlas_46", frames: [[0,0,1518,543],[0,545,1518,543],[0,1090,1518,543]]},
-		{name:"قالب القصص_atlas_47", frames: [[0,467,1459,534],[0,0,1703,465],[0,1003,1617,481]]},
+		{name:"قالب القصص_atlas_47", frames: [[0,0,1703,465],[0,467,1459,534],[0,1003,1617,481]]},
 		{name:"قالب القصص_atlas_48", frames: [[0,811,1768,433],[0,1246,1768,433],[0,0,953,809]]},
 		{name:"قالب القصص_atlas_49", frames: [[0,0,1768,433],[0,435,1535,494],[1014,931,971,755],[0,931,1012,735]]},
 		{name:"قالب القصص_atlas_50", frames: [[0,1479,1518,478],[0,0,1490,491],[0,493,1490,491],[0,986,1490,491]]},
@@ -69,13 +69,13 @@ lib.ssMetadata = [
 		{name:"قالب القصص_atlas_64", frames: [[0,0,1524,321],[0,323,1524,321],[0,1184,1535,308],[0,646,1801,267],[0,915,1801,267],[0,1494,989,476]]},
 		{name:"قالب القصص_atlas_65", frames: [[0,1744,1768,235],[0,0,1617,287],[0,608,1490,282],[0,892,1490,282],[0,1176,1490,282],[0,1460,1490,282],[0,289,1374,317]]},
 		{name:"قالب القصص_atlas_66", frames: [[0,0,1768,235],[0,502,1518,255],[0,237,1518,263],[0,1596,1535,245],[0,1007,652,587],[1520,237,506,768],[654,1007,991,377]]},
-		{name:"قالب القصص_atlas_67", frames: [[0,1224,1801,199],[0,1425,1801,199],[0,0,1658,225],[0,227,1658,225],[0,454,1658,225],[0,1626,1658,216],[0,681,685,541]]},
+		{name:"قالب القصص_atlas_67", frames: [[0,1224,1801,199],[0,1425,1801,199],[0,0,1658,225],[0,1626,1658,216],[0,227,1658,225],[0,454,1658,225],[0,681,685,541]]},
 		{name:"قالب القصص_atlas_68", frames: [[0,1634,1808,175],[0,571,1535,227],[0,800,1617,209],[0,1011,1617,209],[0,1811,1490,210],[0,1222,1618,204],[0,1428,1618,204],[649,0,622,569],[0,0,647,549],[1273,0,571,547]]},
-		{name:"قالب القصص_atlas_69", frames: [[0,1485,1768,146],[0,1290,1518,193],[0,1633,1535,164],[0,0,798,391],[0,393,798,391],[0,1799,1576,159],[0,786,1490,203],[0,991,988,297],[1413,0,588,494],[800,0,611,506]]},
+		{name:"قالب القصص_atlas_69", frames: [[0,1485,1768,146],[0,1290,1518,193],[0,1633,1535,164],[0,0,798,391],[0,393,798,391],[0,1799,1576,159],[0,786,1490,203],[0,991,988,297],[800,0,611,506],[1413,0,588,494]]},
 		{name:"قالب القصص_atlas_70", frames: [[0,1154,1606,146],[0,856,798,296],[0,0,1617,154],[0,156,1617,154],[0,1445,1576,147],[0,312,1801,134],[0,448,1801,134],[0,584,1801,134],[0,720,1801,134],[0,1302,1658,141],[1578,1445,450,510],[0,1594,517,438],[800,856,988,238]]},
-		{name:"قالب القصص_atlas_71", frames: [[0,1052,1561,124],[0,1679,1518,119],[1056,278,798,230],[0,0,1617,133],[0,774,1490,137],[461,135,1490,141],[0,913,1490,137],[0,632,1490,140],[0,1586,1999,91],[1856,278,150,1200],[461,278,593,352],[0,1178,449,406],[0,135,459,465]]},
-		{name:"قالب القصص_atlas_72", frames: [[1074,1571,813,201],[152,1078,1370,83],[152,463,1559,83],[152,548,798,153],[152,163,798,154],[152,703,1576,75],[152,780,1576,75],[152,857,1576,75],[152,934,1576,75],[0,1872,1289,116],[152,1011,1801,65],[152,365,1464,96],[0,1774,1618,96],[0,1295,1914,91],[0,1202,1963,91],[952,548,955,102],[0,0,150,1200],[0,1554,1072,155],[0,1388,1041,164],[1620,1774,413,263],[1069,0,402,363],[1074,1388,908,181],[152,0,915,161]]},
-		{name:"قالب القصص_atlas_73", frames: [[1382,93,22,13],[81,805,62,32],[352,807,37,30],[570,907,67,54],[1825,548,147,143],[1072,1009,70,34],[875,857,62,32],[1520,81,480,67],[0,910,106,34],[820,1007,73,34],[164,907,102,37],[639,937,62,56],[1754,1024,24,34],[0,946,62,56],[519,758,35,56],[1694,972,60,50],[268,993,54,50],[1806,878,81,56],[503,907,65,56],[270,773,80,64],[138,946,69,50],[1818,1000,62,40],[1884,988,55,51],[570,963,62,49],[1179,949,56,58],[634,997,74,34],[650,463,40,49],[1756,972,60,50],[268,957,92,34],[64,998,74,34],[1288,1012,72,33],[1431,844,97,52],[1889,878,81,56],[362,957,93,33],[0,1004,61,34],[1557,843,80,58],[347,907,76,48],[1626,952,66,48],[1353,952,55,58],[418,992,37,47],[1085,844,80,58],[886,949,67,50],[823,249,103,58],[1329,841,100,51],[680,829,107,48],[1931,236,112,58],[1758,236,171,51],[1789,0,174,58],[1139,718,119,58],[866,717,136,58],[1260,771,114,51],[0,850,80,58],[82,850,80,58],[224,720,131,51],[85,663,137,58],[1260,718,134,51],[1972,878,74,51],[1041,904,77,50],[1436,1013,55,34],[1639,765,105,56],[268,907,77,48],[167,773,101,56],[1718,936,105,34],[824,949,60,56],[952,846,110,43],[457,965,54,56],[1010,1014,28,51],[895,1009,73,34],[680,879,81,56],[491,1023,30,32],[513,965,52,56],[875,891,81,56],[958,891,81,56],[362,992,54,51],[1247,824,80,65],[1167,891,81,56],[1972,931,64,56],[1469,961,61,50],[1250,894,81,56],[1941,989,55,51],[1144,1009,70,34],[1167,857,36,32],[1333,894,81,56],[1014,956,56,56],[1216,1012,70,34],[1362,1013,72,33],[1884,936,70,50],[1416,898,81,56],[1618,1002,74,34],[1499,903,81,56],[140,1006,74,34],[762,977,56,51],[1639,892,77,58],[425,907,76,48],[1979,150,65,79],[2013,296,33,87],[0,839,678,9],[1493,1013,25,66],[1004,765,79,79],[1979,389,60,79],[1989,808,55,66],[1359,81,49,10],[1582,903,42,77],[558,583,119,130],[1789,60,49,13],[1175,81,49,20],[889,463,72,78],[1974,548,72,78],[1335,613,72,78],[1972,728,72,78],[804,777,72,78],[878,777,72,78],[1965,0,80,79],[1808,728,80,79],[1890,728,80,79],[558,748,80,79],[640,748,80,79],[722,748,80,79],[437,758,80,79],[0,768,79,67],[1746,809,79,67],[1827,809,79,67],[1908,809,79,67],[1639,823,79,67],[1478,760,77,82],[1174,778,71,77],[224,663,71,55],[1825,389,152,157],[1979,470,65,62],[1825,936,57,62],[1410,81,21,23],[1974,628,62,63],[889,543,70,61],[965,382,222,222],[1840,60,56,9],[1359,93,21,17],[1226,81,31,29],[1396,760,80,79],[1898,60,56,9],[216,1006,40,47],[1559,603,60,79],[167,723,40,48],[1413,389,206,212],[0,112,1518,54],[1213,317,798,70],[0,463,648,66],[935,168,1042,66],[299,317,912,63],[2047,0,1,3],[1044,606,93,157],[1259,81,23,27],[1284,81,23,27],[1309,81,23,27],[1334,81,23,27],[1433,81,22,21],[1457,81,22,21],[1481,81,22,21],[1758,289,22,21],[164,850,84,55],[250,850,84,55],[336,850,84,55],[422,850,84,55],[508,850,84,55],[594,850,84,55],[789,857,84,55],[1720,878,84,55],[1085,778,87,64],[1557,765,80,76],[324,993,35,48],[523,1023,30,32],[1072,956,40,49],[1998,989,38,51],[824,914,36,33],[763,914,59,61],[1410,956,57,55],[1295,952,56,57],[1520,1019,32,41],[601,1014,28,52],[1554,1019,33,34],[1694,1024,28,34],[710,997,38,51],[970,1009,38,48],[567,1014,32,49],[1004,717,29,46],[2002,81,44,58],[1530,844,25,44],[1040,1014,30,33],[952,777,45,58],[1064,846,19,50],[1237,952,56,58],[108,910,40,33],[1120,904,41,33],[1746,765,60,33],[703,937,57,58],[1720,823,20,50],[209,946,57,58],[1724,1024,28,34],[955,949,57,58],[457,1023,32,34],[1589,1019,25,34],[1120,949,57,58],[357,720,78,85],[304,583,141,135],[0,583,302,78],[1840,71,55,2],[1139,613,109,87],[447,583,109,173],[64,946,72,48],[1532,982,84,35],[884,606,158,109],[694,575,188,110],[1621,592,188,99],[694,463,193,110],[1250,613,83,103],[0,663,83,103],[1049,81,124,28],[1189,389,222,222],[1559,693,468,33],[1396,728,220,30],[1618,728,188,35],[854,81,193,27],[558,715,306,31],[299,249,522,50],[1621,389,202,201],[0,0,852,110],[85,723,80,80],[0,531,692,50],[1413,603,144,122],[1205,857,32,32],[299,382,664,79],[854,0,933,79],[0,168,933,79],[935,236,821,79],[0,249,297,207]]}
+		{name:"قالب القصص_atlas_71", frames: [[0,1052,1561,124],[0,1679,1518,119],[1056,278,798,230],[0,0,1617,133],[0,774,1490,137],[461,135,1490,141],[0,913,1490,137],[0,632,1490,140],[0,1586,1999,91],[1856,278,150,1200],[0,1178,449,406],[461,278,593,352],[0,135,459,465]]},
+		{name:"قالب القصص_atlas_72", frames: [[1074,1571,813,201],[152,1078,1370,83],[152,463,1559,83],[152,548,798,153],[152,163,798,154],[152,703,1576,75],[152,780,1576,75],[152,857,1576,75],[152,934,1576,75],[0,1872,1289,116],[152,1011,1801,65],[152,365,1464,96],[0,1774,1618,96],[0,1295,1914,91],[0,1202,1963,91],[952,548,955,102],[0,0,150,1200],[0,1554,1072,155],[152,0,915,161],[0,1388,1041,164],[1069,0,402,363],[1620,1774,413,263],[1074,1388,908,181]]},
+		{name:"قالب القصص_atlas_73", frames: [[352,807,37,30],[570,907,67,54],[81,805,62,32],[1382,93,22,13],[1825,548,147,143],[1520,81,480,67],[820,1007,73,34],[1072,1009,70,34],[875,857,62,32],[164,907,102,37],[639,937,62,56],[0,910,106,34],[1694,972,60,50],[519,758,35,56],[1754,1024,24,34],[0,946,62,56],[268,993,54,50],[138,946,69,50],[270,773,80,64],[503,907,65,56],[1806,878,81,56],[570,963,62,49],[1818,1000,62,40],[1884,988,55,51],[1756,972,60,50],[1179,949,56,58],[634,997,74,34],[650,463,40,49],[268,957,92,34],[64,998,74,34],[1288,1012,72,33],[1889,878,81,56],[362,957,93,33],[1431,844,97,52],[0,1004,61,34],[347,907,76,48],[1626,952,66,48],[1353,952,55,58],[1557,843,80,58],[1085,844,80,58],[418,992,37,47],[823,249,103,58],[886,949,67,50],[1329,841,100,51],[680,829,107,48],[1789,0,174,58],[1931,236,112,58],[1758,236,171,51],[1139,718,119,58],[866,717,136,58],[1260,771,114,51],[224,720,131,51],[0,850,80,58],[1972,878,74,51],[82,850,80,58],[1041,904,77,50],[85,663,137,58],[1639,765,105,56],[1260,718,134,51],[952,846,110,43],[824,949,60,56],[268,907,77,48],[167,773,101,56],[1718,936,105,34],[1436,1013,55,34],[457,965,54,56],[680,879,81,56],[1010,1014,28,51],[895,1009,73,34],[513,965,52,56],[875,891,81,56],[491,1023,30,32],[1247,824,80,65],[958,891,81,56],[362,992,54,51],[1167,891,81,56],[1469,961,61,50],[1972,931,64,56],[1144,1009,70,34],[1941,989,55,51],[1250,894,81,56],[1333,894,81,56],[1014,956,56,56],[1167,857,36,32],[1362,1013,72,33],[1416,898,81,56],[1884,936,70,50],[1216,1012,70,34],[1618,1002,74,34],[1499,903,81,56],[1639,892,77,58],[425,907,76,48],[762,977,56,51],[1493,1013,25,66],[1979,389,60,79],[140,1006,74,34],[2013,296,33,87],[1979,150,65,79],[0,839,678,9],[1989,808,55,66],[1582,903,42,77],[1359,81,49,10],[1789,60,49,13],[1004,765,79,79],[1175,81,49,20],[558,583,119,130],[889,463,72,78],[1974,548,72,78],[1335,613,72,78],[1972,728,72,78],[804,777,72,78],[878,777,72,78],[1965,0,80,79],[1808,728,80,79],[1890,728,80,79],[558,748,80,79],[640,748,80,79],[722,748,80,79],[0,768,79,67],[437,758,80,79],[1746,809,79,67],[1827,809,79,67],[1908,809,79,67],[1639,823,79,67],[224,663,71,55],[1478,760,77,82],[1174,778,71,77],[1979,470,65,62],[1410,81,21,23],[889,543,70,61],[1825,936,57,62],[1825,389,152,157],[1974,628,62,63],[1840,60,56,9],[965,382,222,222],[1898,60,56,9],[1359,93,21,17],[1226,81,31,29],[1396,760,80,79],[1559,603,60,79],[216,1006,40,47],[167,723,40,48],[1413,389,206,212],[0,112,1518,54],[1213,317,798,70],[0,463,648,66],[935,168,1042,66],[299,317,912,63],[2047,0,1,3],[1044,606,93,157],[1259,81,23,27],[1284,81,23,27],[1309,81,23,27],[1334,81,23,27],[1433,81,22,21],[1457,81,22,21],[1481,81,22,21],[1758,289,22,21],[164,850,84,55],[250,850,84,55],[336,850,84,55],[422,850,84,55],[508,850,84,55],[594,850,84,55],[789,857,84,55],[1720,878,84,55],[1085,778,87,64],[1557,765,80,76],[324,993,35,48],[1072,956,40,49],[523,1023,30,32],[1998,989,38,51],[1410,956,57,55],[824,914,36,33],[763,914,59,61],[1295,952,56,57],[1520,1019,32,41],[601,1014,28,52],[1554,1019,33,34],[970,1009,38,48],[710,997,38,51],[1694,1024,28,34],[567,1014,32,49],[1004,717,29,46],[1040,1014,30,33],[2002,81,44,58],[1530,844,25,44],[952,777,45,58],[108,910,40,33],[1237,952,56,58],[1064,846,19,50],[1746,765,60,33],[1120,904,41,33],[703,937,57,58],[1720,823,20,50],[209,946,57,58],[1724,1024,28,34],[955,949,57,58],[457,1023,32,34],[1120,949,57,58],[357,720,78,85],[1589,1019,25,34],[304,583,141,135],[1840,71,55,2],[447,583,109,173],[0,583,302,78],[1139,613,109,87],[64,946,72,48],[1532,982,84,35],[884,606,158,109],[694,575,188,110],[1621,592,188,99],[694,463,193,110],[1250,613,83,103],[0,663,83,103],[1189,389,222,222],[1049,81,124,28],[1559,693,468,33],[1396,728,220,30],[1618,728,188,35],[854,81,193,27],[558,715,306,31],[85,723,80,80],[299,249,522,50],[1621,389,202,201],[0,0,852,110],[1413,603,144,122],[0,531,692,50],[1205,857,32,32],[299,382,664,79],[935,236,821,79],[854,0,933,79],[0,168,933,79],[0,249,297,207]]}
 ];
 
 
@@ -209,28 +209,28 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_479 = function() {
+(lib.CachedBmp_478 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_474 = function() {
+(lib.CachedBmp_477 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_478 = function() {
+(lib.CachedBmp_474 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_477 = function() {
+(lib.CachedBmp_479 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
@@ -244,77 +244,77 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_473 = function() {
+(lib.CachedBmp_476 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_472 = function() {
+(lib.CachedBmp_471 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_476 = function() {
+(lib.CachedBmp_473 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_469 = function() {
+(lib.CachedBmp_472 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_471 = function() {
+(lib.CachedBmp_470 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_470 = function() {
+(lib.CachedBmp_468 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_468 = function() {
+(lib.CachedBmp_469 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_465 = function() {
+(lib.CachedBmp_467 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_464 = function() {
+(lib.CachedBmp_466 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_466 = function() {
+(lib.CachedBmp_465 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_467 = function() {
+(lib.CachedBmp_464 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
@@ -328,77 +328,77 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_462 = function() {
+(lib.CachedBmp_461 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_460 = function() {
+(lib.CachedBmp_459 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_459 = function() {
+(lib.CachedBmp_460 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_461 = function() {
+(lib.CachedBmp_462 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_458 = function() {
+(lib.CachedBmp_456 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_457 = function() {
+(lib.CachedBmp_458 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_456 = function() {
+(lib.CachedBmp_457 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_450 = function() {
+(lib.CachedBmp_455 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_453 = function() {
+(lib.CachedBmp_450 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_449 = function() {
+(lib.CachedBmp_453 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_455 = function() {
+(lib.CachedBmp_449 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
@@ -426,21 +426,21 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_442 = function() {
+(lib.CachedBmp_446 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_446 = function() {
+(lib.CachedBmp_441 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_441 = function() {
+(lib.CachedBmp_442 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
@@ -454,56 +454,56 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_452 = function() {
+(lib.CachedBmp_439 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_439 = function() {
+(lib.CachedBmp_437 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_437 = function() {
+(lib.CachedBmp_436 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_436 = function() {
+(lib.CachedBmp_434 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_435 = function() {
+(lib.CachedBmp_452 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_434 = function() {
+(lib.CachedBmp_435 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_433 = function() {
+(lib.CachedBmp_432 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_432 = function() {
+(lib.CachedBmp_433 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
@@ -524,21 +524,21 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_430 = function() {
+(lib.CachedBmp_428 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_427 = function() {
+(lib.CachedBmp_430 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_428 = function() {
+(lib.CachedBmp_427 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
@@ -566,98 +566,98 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_422 = function() {
+(lib.CachedBmp_423 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_444 = function() {
+(lib.CachedBmp_422 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_423 = function() {
+(lib.CachedBmp_421 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(53);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_420 = function() {
+(lib.CachedBmp_444 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(54);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_419 = function() {
+(lib.CachedBmp_417 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(55);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_421 = function() {
+(lib.CachedBmp_420 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(56);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_417 = function() {
+(lib.CachedBmp_416 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(57);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_413 = function() {
+(lib.CachedBmp_419 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(58);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_416 = function() {
+(lib.CachedBmp_415 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(59);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_411 = function() {
+(lib.CachedBmp_414 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(60);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_410 = function() {
+(lib.CachedBmp_411 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(61);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_409 = function() {
+(lib.CachedBmp_410 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(62);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_414 = function() {
+(lib.CachedBmp_409 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(63);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_415 = function() {
+(lib.CachedBmp_413 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(64);
 }).prototype = p = new cjs.Sprite();
@@ -671,63 +671,70 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_408 = function() {
+(lib.CachedBmp_406 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(66);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_405 = function() {
+(lib.CachedBmp_408 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(67);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_448 = function() {
+(lib.CachedBmp_405 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(68);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_403 = function() {
+(lib.CachedBmp_404 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(69);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_404 = function() {
+(lib.CachedBmp_480 = function() {
+	this.initialize(ss["قالب القصص_atlas_41"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_448 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(70);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_406 = function() {
+(lib.CachedBmp_403 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(71);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_400 = function() {
+(lib.CachedBmp_401 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(72);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_399 = function() {
+(lib.CachedBmp_400 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(73);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_401 = function() {
+(lib.CachedBmp_399 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(74);
 }).prototype = p = new cjs.Sprite();
@@ -741,21 +748,21 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_394 = function() {
+(lib.CachedBmp_397 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(76);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_397 = function() {
+(lib.CachedBmp_394 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(77);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_392 = function() {
+(lib.CachedBmp_391 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(78);
 }).prototype = p = new cjs.Sprite();
@@ -769,42 +776,42 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_391 = function() {
+(lib.CachedBmp_392 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(80);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_387 = function() {
+(lib.CachedBmp_386 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(81);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_386 = function() {
+(lib.CachedBmp_388 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(82);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_388 = function() {
+(lib.CachedBmp_387 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(83);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_385 = function() {
+(lib.CachedBmp_383 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(84);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_383 = function() {
+(lib.CachedBmp_384 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(85);
 }).prototype = p = new cjs.Sprite();
@@ -818,7 +825,7 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_384 = function() {
+(lib.CachedBmp_385 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(87);
 }).prototype = p = new cjs.Sprite();
@@ -839,77 +846,77 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_379 = function() {
+(lib.CachedBmp_376 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(90);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_377 = function() {
+(lib.CachedBmp_375 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(91);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_376 = function() {
+(lib.CachedBmp_377 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(92);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_375 = function() {
+(lib.CachedBmp_371 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(93);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_373 = function() {
+(lib.CachedBmp_369 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(94);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_368 = function() {
+(lib.CachedBmp_379 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(95);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_367 = function() {
+(lib.CachedBmp_368 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(96);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_371 = function() {
+(lib.CachedBmp_373 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(97);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_366 = function() {
+(lib.CachedBmp_367 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(98);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_369 = function() {
+(lib.CachedBmp_364 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(99);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_364 = function() {
+(lib.CachedBmp_362 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(100);
 }).prototype = p = new cjs.Sprite();
@@ -923,28 +930,28 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_362 = function() {
+(lib.CachedBmp_358 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(102);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_374 = function() {
+(lib.CachedBmp_366 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(103);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_358 = function() {
+(lib.CachedBmp_356 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(104);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_356 = function() {
+(lib.CachedBmp_374 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(105);
 }).prototype = p = new cjs.Sprite();
@@ -972,14 +979,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_352 = function() {
+(lib.CachedBmp_351 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(109);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_351 = function() {
+(lib.CachedBmp_352 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(110);
 }).prototype = p = new cjs.Sprite();
@@ -993,70 +1000,70 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_345 = function() {
+(lib.CachedBmp_347 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(112);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_347 = function() {
+(lib.CachedBmp_346 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(113);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_343 = function() {
+(lib.CachedBmp_345 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(114);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_344 = function() {
+(lib.CachedBmp_343 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(115);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_346 = function() {
+(lib.CachedBmp_342 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(116);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_349 = function() {
+(lib.CachedBmp_344 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(117);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_342 = function() {
+(lib.CachedBmp_338 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(118);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_338 = function() {
+(lib.CachedBmp_349 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(119);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_340 = function() {
+(lib.CachedBmp_336 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(120);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_336 = function() {
+(lib.CachedBmp_340 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(121);
 }).prototype = p = new cjs.Sprite();
@@ -1077,119 +1084,119 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_331 = function() {
+(lib.CachedBmp_334 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(124);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_330 = function() {
+(lib.CachedBmp_331 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(125);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_334 = function() {
+(lib.CachedBmp_330 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(126);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_329 = function() {
+(lib.CachedBmp_327 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(127);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_327 = function() {
+(lib.CachedBmp_324 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(128);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_325 = function() {
+(lib.CachedBmp_328 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(129);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_324 = function() {
+(lib.CachedBmp_325 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(130);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_326 = function() {
+(lib.CachedBmp_329 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(131);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_328 = function() {
+(lib.CachedBmp_326 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(132);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_323 = function() {
+(lib.CachedBmp_321 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(133);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_321 = function() {
+(lib.CachedBmp_323 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(134);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_319 = function() {
+(lib.CachedBmp_322 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(135);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_318 = function() {
+(lib.CachedBmp_319 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(136);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_316 = function() {
+(lib.CachedBmp_318 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(137);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_322 = function() {
+(lib.CachedBmp_316 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(138);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_312 = function() {
+(lib.CachedBmp_315 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(139);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_315 = function() {
+(lib.CachedBmp_312 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(140);
 }).prototype = p = new cjs.Sprite();
@@ -1231,16 +1238,16 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_307 = function() {
-	this.initialize(ss["قالب القصص_atlas_62"]);
-	this.gotoAndStop(0);
+(lib.CachedBmp_308 = function() {
+	this.initialize(ss["قالب القصص_atlas_64"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_308 = function() {
-	this.initialize(ss["قالب القصص_atlas_64"]);
-	this.gotoAndStop(1);
+(lib.CachedBmp_307 = function() {
+	this.initialize(ss["قالب القصص_atlas_62"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1259,16 +1266,23 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_304 = function() {
+(lib.CachedBmp_303 = function() {
 	this.initialize(ss["قالب القصص_atlas_44"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_303 = function() {
+(lib.CachedBmp_304 = function() {
 	this.initialize(ss["قالب القصص_atlas_44"]);
 	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_301 = function() {
+	this.initialize(ss["قالب القصص_atlas_34"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1287,13 +1301,6 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_301 = function() {
-	this.initialize(ss["قالب القصص_atlas_34"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_299 = function() {
 	this.initialize(ss["قالب القصص_atlas_23"]);
 	this.gotoAndStop(0);
@@ -1301,14 +1308,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_298 = function() {
+(lib.CachedBmp_297 = function() {
 	this.initialize(ss["قالب القصص_atlas_23"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_297 = function() {
+(lib.CachedBmp_298 = function() {
 	this.initialize(ss["قالب القصص_atlas_24"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
@@ -1364,13 +1371,6 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_289 = function() {
-	this.initialize(ss["قالب القصص_atlas_55"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_287 = function() {
 	this.initialize(ss["قالب القصص_atlas_65"]);
 	this.gotoAndStop(0);
@@ -1378,8 +1378,8 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_286 = function() {
-	this.initialize(ss["قالب القصص_atlas_66"]);
+(lib.CachedBmp_289 = function() {
+	this.initialize(ss["قالب القصص_atlas_55"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -1387,6 +1387,13 @@ lib.ssMetadata = [
 
 (lib.CachedBmp_293 = function() {
 	this.initialize(ss["قالب القصص_atlas_14"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_286 = function() {
+	this.initialize(ss["قالب القصص_atlas_66"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -1427,14 +1434,14 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_281 = function() {
+(lib.CachedBmp_280 = function() {
 	this.initialize(ss["قالب القصص_atlas_48"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_280 = function() {
+(lib.CachedBmp_281 = function() {
 	this.initialize(ss["قالب القصص_atlas_48"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
@@ -1471,7 +1478,7 @@ lib.ssMetadata = [
 
 (lib.CachedBmp_278 = function() {
 	this.initialize(ss["قالب القصص_atlas_41"]);
-	this.gotoAndStop(0);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1490,16 +1497,16 @@ lib.ssMetadata = [
 
 
 
-(lib.CachedBmp_277 = function() {
-	this.initialize(ss["قالب القصص_atlas_34"]);
-	this.gotoAndStop(1);
+(lib.CachedBmp_269 = function() {
+	this.initialize(ss["قالب القصص_atlas_63"]);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_269 = function() {
-	this.initialize(ss["قالب القصص_atlas_63"]);
-	this.gotoAndStop(3);
+(lib.CachedBmp_277 = function() {
+	this.initialize(ss["قالب القصص_atlas_34"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1559,6 +1566,20 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
+(lib.CachedBmp_261 = function() {
+	this.initialize(ss["قالب القصص_atlas_46"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_262 = function() {
+	this.initialize(ss["قالب القصص_atlas_46"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_256 = function() {
 	this.initialize(ss["قالب القصص_atlas_72"]);
 	this.gotoAndStop(1);
@@ -1568,27 +1589,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 (lib.CachedBmp_255 = function() {
 	this.initialize(ss["قالب القصص_atlas_72"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_262 = function() {
-	this.initialize(ss["قالب القصص_atlas_46"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_261 = function() {
-	this.initialize(ss["قالب القصص_atlas_46"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_260 = function() {
-	this.initialize(ss["قالب القصص_atlas_46"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
@@ -1608,16 +1608,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_258 = function() {
-	this.initialize(ss["قالب القصص_atlas_40"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_259 = function() {
-	this.initialize(ss["قالب القصص_atlas_41"]);
-	this.gotoAndStop(1);
+(lib.CachedBmp_260 = function() {
+	this.initialize(ss["قالب القصص_atlas_46"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1636,6 +1629,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
+(lib.CachedBmp_259 = function() {
+	this.initialize(ss["قالب القصص_atlas_40"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_250 = function() {
 	this.initialize(ss["قالب القصص_atlas_64"]);
 	this.gotoAndStop(2);
@@ -1643,9 +1643,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_257 = function() {
-	this.initialize(ss["قالب القصص_atlas_36"]);
-	this.gotoAndStop(0);
+(lib.CachedBmp_258 = function() {
+	this.initialize(ss["قالب القصص_atlas_40"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1653,6 +1653,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 (lib.CachedBmp_249 = function() {
 	this.initialize(ss["قالب القصص_atlas_62"]);
 	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_257 = function() {
+	this.initialize(ss["قالب القصص_atlas_36"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1666,13 +1673,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 (lib.CachedBmp_248 = function() {
 	this.initialize(ss["قالب القصص_atlas_56"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_247 = function() {
-	this.initialize(ss["قالب القصص_atlas_53"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -1692,6 +1692,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
+(lib.CachedBmp_247 = function() {
+	this.initialize(ss["قالب القصص_atlas_53"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_246 = function() {
 	this.initialize(ss["قالب القصص_atlas_49"]);
 	this.gotoAndStop(1);
@@ -1706,9 +1713,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_245 = function() {
-	this.initialize(ss["قالب القصص_atlas_43"]);
-	this.gotoAndStop(0);
+(lib.CachedBmp_238 = function() {
+	this.initialize(ss["قالب القصص_atlas_70"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1720,23 +1727,16 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_238 = function() {
-	this.initialize(ss["قالب القصص_atlas_70"]);
-	this.gotoAndStop(1);
+(lib.CachedBmp_236 = function() {
+	this.initialize(ss["قالب القصص_atlas_69"]);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_243 = function() {
 	this.initialize(ss["قالب القصص_atlas_43"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_236 = function() {
-	this.initialize(ss["قالب القصص_atlas_69"]);
-	this.gotoAndStop(4);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1748,14 +1748,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_234 = function() {
+(lib.CachedBmp_245 = function() {
+	this.initialize(ss["قالب القصص_atlas_43"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_235 = function() {
 	this.initialize(ss["قالب القصص_atlas_47"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_235 = function() {
+(lib.CachedBmp_234 = function() {
 	this.initialize(ss["قالب القصص_atlas_47"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
@@ -1769,8 +1776,8 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_232 = function() {
-	this.initialize(ss["قالب القصص_atlas_35"]);
+(lib.CachedBmp_230 = function() {
+	this.initialize(ss["قالب القصص_atlas_29"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -1783,9 +1790,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_230 = function() {
-	this.initialize(ss["قالب القصص_atlas_29"]);
-	this.gotoAndStop(0);
+(lib.CachedBmp_232 = function() {
+	this.initialize(ss["قالب القصص_atlas_34"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1811,6 +1818,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
+(lib.CachedBmp_220 = function() {
+	this.initialize(ss["قالب القصص_atlas_70"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_226 = function() {
 	this.initialize(ss["قالب القصص_atlas_13"]);
 	this.gotoAndStop(0);
@@ -1825,27 +1839,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_220 = function() {
-	this.initialize(ss["قالب القصص_atlas_70"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_224 = function() {
-	this.initialize(ss["قالب القصص_atlas_8"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_223 = function() {
-	this.initialize(ss["قالب القصص_atlas_9"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_219 = function() {
 	this.initialize(ss["قالب القصص_atlas_70"]);
 	this.gotoAndStop(3);
@@ -1853,9 +1846,16 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_217 = function() {
-	this.initialize(ss["قالب القصص_atlas_71"]);
-	this.gotoAndStop(3);
+(lib.CachedBmp_223 = function() {
+	this.initialize(ss["قالب القصص_atlas_8"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_224 = function() {
+	this.initialize(ss["قالب القصص_atlas_9"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1867,22 +1867,15 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_216 = function() {
-	this.initialize(ss["قالب القصص_atlas_68"]);
+(lib.CachedBmp_217 = function() {
+	this.initialize(ss["قالب القصص_atlas_71"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_215 = function() {
-	this.initialize(ss["قالب القصص_atlas_65"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_213 = function() {
-	this.initialize(ss["قالب القصص_atlas_59"]);
+(lib.CachedBmp_216 = function() {
+	this.initialize(ss["قالب القصص_atlas_68"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
@@ -1895,16 +1888,37 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_214 = function() {
+(lib.CachedBmp_215 = function() {
+	this.initialize(ss["قالب القصص_atlas_65"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_212 = function() {
+	this.initialize(ss["قالب القصص_atlas_59"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_213 = function() {
 	this.initialize(ss["قالب القصص_atlas_60"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_212 = function() {
+(lib.CachedBmp_214 = function() {
 	this.initialize(ss["قالب القصص_atlas_60"]);
 	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_221 = function() {
+	this.initialize(ss["قالب القصص_atlas_4"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1923,13 +1937,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_221 = function() {
-	this.initialize(ss["قالب القصص_atlas_4"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_210 = function() {
 	this.initialize(ss["قالب القصص_atlas_53"]);
 	this.gotoAndStop(2);
@@ -1944,16 +1951,16 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_207 = function() {
-	this.initialize(ss["قالب القصص_atlas_42"]);
-	this.gotoAndStop(1);
+(lib.CachedBmp_206 = function() {
+	this.initialize(ss["قالب القصص_atlas_41"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_206 = function() {
+(lib.CachedBmp_207 = function() {
 	this.initialize(ss["قالب القصص_atlas_42"]);
-	this.gotoAndStop(2);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1972,6 +1979,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
+(lib.CachedBmp_203 = function() {
+	this.initialize(ss["قالب القصص_atlas_38"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_202 = function() {
 	this.initialize(ss["قالب القصص_atlas_33"]);
 	this.gotoAndStop(2);
@@ -1979,22 +1993,8 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_203 = function() {
-	this.initialize(ss["قالب القصص_atlas_39"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_200 = function() {
-	this.initialize(ss["قالب القصص_atlas_31"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_201 = function() {
-	this.initialize(ss["قالب القصص_atlas_32"]);
+	this.initialize(ss["قالب القصص_atlas_31"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -2007,16 +2007,16 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_192 = function() {
-	this.initialize(ss["قالب القصص_atlas_72"]);
-	this.gotoAndStop(5);
+(lib.CachedBmp_200 = function() {
+	this.initialize(ss["قالب القصص_atlas_32"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_191 = function() {
+(lib.CachedBmp_192 = function() {
 	this.initialize(ss["قالب القصص_atlas_72"]);
-	this.gotoAndStop(6);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2028,29 +2028,29 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_197 = function() {
-	this.initialize(ss["قالب القصص_atlas_28"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_189 = function() {
+(lib.CachedBmp_191 = function() {
 	this.initialize(ss["قالب القصص_atlas_72"]);
-	this.gotoAndStop(7);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_190 = function() {
 	this.initialize(ss["قالب القصص_atlas_72"]);
+	this.gotoAndStop(7);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_189 = function() {
+	this.initialize(ss["قالب القصص_atlas_72"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_196 = function() {
-	this.initialize(ss["قالب القصص_atlas_29"]);
+(lib.CachedBmp_197 = function() {
+	this.initialize(ss["قالب القصص_atlas_28"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -2063,16 +2063,23 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_195 = function() {
-	this.initialize(ss["قالب القصص_atlas_22"]);
+(lib.CachedBmp_187 = function() {
+	this.initialize(ss["قالب القصص_atlas_69"]);
+	this.gotoAndStop(5);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_196 = function() {
+	this.initialize(ss["قالب القصص_atlas_29"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_187 = function() {
-	this.initialize(ss["قالب القصص_atlas_69"]);
-	this.gotoAndStop(5);
+(lib.CachedBmp_195 = function() {
+	this.initialize(ss["قالب القصص_atlas_22"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2105,16 +2112,16 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_183 = function() {
-	this.initialize(ss["قالب القصص_atlas_16"]);
-	this.gotoAndStop(0);
+(lib.CachedBmp_184 = function() {
+	this.initialize(ss["قالب القصص_atlas_19"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_184 = function() {
-	this.initialize(ss["قالب القصص_atlas_19"]);
-	this.gotoAndStop(1);
+(lib.CachedBmp_183 = function() {
+	this.initialize(ss["قالب القصص_atlas_16"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2147,9 +2154,16 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_181 = function() {
+(lib.CachedBmp_180 = function() {
 	this.initialize(ss["قالب القصص_atlas_17"]);
 	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_181 = function() {
+	this.initialize(ss["قالب القصص_atlas_17"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2157,13 +2171,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 (lib.CachedBmp_172 = function() {
 	this.initialize(ss["قالب القصص_atlas_71"]);
 	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_180 = function() {
-	this.initialize(ss["قالب القصص_atlas_17"]);
-	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2196,6 +2203,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
+(lib.CachedBmp_179 = function() {
+	this.initialize(ss["قالب القصص_atlas_10"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_167 = function() {
 	this.initialize(ss["قالب القصص_atlas_68"]);
 	this.gotoAndStop(4);
@@ -2217,13 +2231,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_179 = function() {
-	this.initialize(ss["قالب القصص_atlas_10"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_165 = function() {
 	this.initialize(ss["قالب القصص_atlas_65"]);
 	this.gotoAndStop(3);
@@ -2234,6 +2241,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 (lib.CachedBmp_164 = function() {
 	this.initialize(ss["قالب القصص_atlas_65"]);
 	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_177 = function() {
+	this.initialize(ss["قالب القصص_atlas_6"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2252,8 +2266,8 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_177 = function() {
-	this.initialize(ss["قالب القصص_atlas_6"]);
+(lib.CachedBmp_176 = function() {
+	this.initialize(ss["قالب القصص_atlas_5"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -2262,13 +2276,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 (lib.CachedBmp_161 = function() {
 	this.initialize(ss["قالب القصص_atlas_61"]);
 	this.gotoAndStop(3);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_176 = function() {
-	this.initialize(ss["قالب القصص_atlas_5"]);
-	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2287,14 +2294,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_159 = function() {
+(lib.CachedBmp_158 = function() {
 	this.initialize(ss["قالب القصص_atlas_50"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_158 = function() {
+(lib.CachedBmp_159 = function() {
 	this.initialize(ss["قالب القصص_atlas_50"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
@@ -2315,14 +2322,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_154 = function() {
+(lib.CachedBmp_153 = function() {
 	this.initialize(ss["قالب القصص_atlas_45"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_153 = function() {
+(lib.CachedBmp_154 = function() {
 	this.initialize(ss["قالب القصص_atlas_45"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
@@ -2357,6 +2364,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
+(lib.CachedBmp_151 = function() {
+	this.initialize(ss["قالب القصص_atlas_39"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_144 = function() {
 	this.initialize(ss["قالب القصص_atlas_70"]);
 	this.gotoAndStop(6);
@@ -2364,30 +2378,23 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_143 = function() {
-	this.initialize(ss["قالب القصص_atlas_70"]);
-	this.gotoAndStop(7);
+(lib.CachedBmp_150 = function() {
+	this.initialize(ss["قالب القصص_atlas_40"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_142 = function() {
 	this.initialize(ss["قالب القصص_atlas_70"]);
+	this.gotoAndStop(7);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_143 = function() {
+	this.initialize(ss["قالب القصص_atlas_70"]);
 	this.gotoAndStop(8);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_150 = function() {
-	this.initialize(ss["قالب القصص_atlas_40"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_151 = function() {
-	this.initialize(ss["قالب القصص_atlas_40"]);
-	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2406,13 +2413,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_148 = function() {
-	this.initialize(ss["قالب القصص_atlas_36"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_140 = function() {
 	this.initialize(ss["قالب القصص_atlas_67"]);
 	this.gotoAndStop(1);
@@ -2427,6 +2427,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
+(lib.CachedBmp_148 = function() {
+	this.initialize(ss["قالب القصص_atlas_35"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_138 = function() {
 	this.initialize(ss["قالب القصص_atlas_64"]);
 	this.gotoAndStop(4);
@@ -2434,15 +2441,15 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_136 = function() {
-	this.initialize(ss["قالب القصص_atlas_56"]);
+(lib.CachedBmp_137 = function() {
+	this.initialize(ss["قالب القصص_atlas_58"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_137 = function() {
-	this.initialize(ss["قالب القصص_atlas_58"]);
+(lib.CachedBmp_136 = function() {
+	this.initialize(ss["قالب القصص_atlas_56"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -2455,20 +2462,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_129 = function() {
-	this.initialize(ss["قالب القصص_atlas_70"]);
-	this.gotoAndStop(9);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_133 = function() {
-	this.initialize(ss["قالب القصص_atlas_51"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_134 = function() {
 	this.initialize(ss["قالب القصص_atlas_52"]);
 	this.gotoAndStop(2);
@@ -2476,8 +2469,22 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
+(lib.CachedBmp_129 = function() {
+	this.initialize(ss["قالب القصص_atlas_70"]);
+	this.gotoAndStop(9);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_128 = function() {
 	this.initialize(ss["قالب القصص_atlas_67"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_133 = function() {
+	this.initialize(ss["قالب القصص_atlas_51"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
@@ -2490,15 +2497,22 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_127 = function() {
+(lib.CachedBmp_126 = function() {
 	this.initialize(ss["قالب القصص_atlas_67"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.CachedBmp_127 = function() {
+	this.initialize(ss["قالب القصص_atlas_67"]);
+	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_131 = function() {
-	this.initialize(ss["قالب القصص_atlas_43"]);
+	this.initialize(ss["قالب القصص_atlas_42"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
@@ -2506,21 +2520,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 (lib.CachedBmp_125 = function() {
 	this.initialize(ss["قالب القصص_atlas_67"]);
-	this.gotoAndStop(4);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_130 = function() {
 	this.initialize(ss["قالب القصص_atlas_43"]);
-	this.gotoAndStop(3);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_126 = function() {
-	this.initialize(ss["قالب القصص_atlas_67"]);
-	this.gotoAndStop(5);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2546,13 +2553,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_122 = function() {
-	this.initialize(ss["قالب القصص_atlas_62"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_117 = function() {
 	this.initialize(ss["قالب القصص_atlas_72"]);
 	this.gotoAndStop(12);
@@ -2562,47 +2562,54 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 (lib.CachedBmp_121 = function() {
 	this.initialize(ss["قالب القصص_atlas_62"]);
-	this.gotoAndStop(5);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_115 = function() {
-	this.initialize(ss["قالب القصص_atlas_68"]);
+(lib.CachedBmp_122 = function() {
+	this.initialize(ss["قالب القصص_atlas_62"]);
 	this.gotoAndStop(5);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_119 = function() {
-	this.initialize(ss["قالب القصص_atlas_53"]);
-	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_116 = function() {
 	this.initialize(ss["قالب القصص_atlas_68"]);
-	this.gotoAndStop(6);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_120 = function() {
 	this.initialize(ss["قالب القصص_atlas_53"]);
-	this.gotoAndStop(4);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_114 = function() {
-	this.initialize(ss["قالب القصص_atlas_63"]);
+(lib.CachedBmp_115 = function() {
+	this.initialize(ss["قالب القصص_atlas_68"]);
+	this.gotoAndStop(6);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_119 = function() {
+	this.initialize(ss["قالب القصص_atlas_53"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_113 = function() {
+	this.initialize(ss["قالب القصص_atlas_63"]);
+	this.gotoAndStop(4);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_114 = function() {
 	this.initialize(ss["قالب القصص_atlas_63"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
@@ -2616,9 +2623,16 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_111 = function() {
+(lib.CachedBmp_110 = function() {
 	this.initialize(ss["قالب القصص_atlas_54"]);
 	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_111 = function() {
+	this.initialize(ss["قالب القصص_atlas_54"]);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2630,9 +2644,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_110 = function() {
-	this.initialize(ss["قالب القصص_atlas_54"]);
-	this.gotoAndStop(3);
+(lib.CachedBmp_109 = function() {
+	this.initialize(ss["قالب القصص_atlas_68"]);
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2644,13 +2658,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_101 = function() {
-	this.initialize(ss["قالب القصص_atlas_73"]);
-	this.gotoAndStop(148);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_103 = function() {
 	this.initialize(ss["قالب القصص_atlas_72"]);
 	this.gotoAndStop(14);
@@ -2658,16 +2665,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_109 = function() {
-	this.initialize(ss["قالب القصص_atlas_68"]);
-	this.gotoAndStop(7);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_100 = function() {
-	this.initialize(ss["قالب القصص_atlas_72"]);
-	this.gotoAndStop(15);
+(lib.CachedBmp_101 = function() {
+	this.initialize(ss["قالب القصص_atlas_73"]);
+	this.gotoAndStop(148);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2675,6 +2675,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 (lib.CachedBmp_98 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(149);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_100 = function() {
+	this.initialize(ss["قالب القصص_atlas_72"]);
+	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2721,16 +2728,16 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_107 = function() {
-	this.initialize(ss["قالب القصص_atlas_66"]);
-	this.gotoAndStop(4);
+(lib.CachedBmp_90 = function() {
+	this.initialize(ss["قالب القصص_atlas_73"]);
+	this.gotoAndStop(156);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_90 = function() {
-	this.initialize(ss["قالب القصص_atlas_73"]);
-	this.gotoAndStop(156);
+(lib.CachedBmp_107 = function() {
+	this.initialize(ss["قالب القصص_atlas_66"]);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2777,14 +2784,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_81 = function() {
+(lib.CachedBmp_82 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(163);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_82 = function() {
+(lib.CachedBmp_81 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(164);
 }).prototype = p = new cjs.Sprite();
@@ -2819,21 +2826,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_72 = function() {
+(lib.CachedBmp_74 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(169);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_99 = function() {
-	this.initialize(ss["قالب القصص_atlas_70"]);
-	this.gotoAndStop(10);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_74 = function() {
+(lib.CachedBmp_72 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(170);
 }).prototype = p = new cjs.Sprite();
@@ -2847,21 +2847,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_67 = function() {
+(lib.CachedBmp_99 = function() {
+	this.initialize(ss["قالب القصص_atlas_70"]);
+	this.gotoAndStop(10);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_69 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(172);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_66 = function() {
+(lib.CachedBmp_67 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(173);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_69 = function() {
+(lib.CachedBmp_66 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(174);
 }).prototype = p = new cjs.Sprite();
@@ -2871,13 +2878,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 (lib.CachedBmp_65 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(175);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_106 = function() {
-	this.initialize(ss["قالب القصص_atlas_26"]);
-	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2903,7 +2903,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_54 = function() {
+(lib.CachedBmp_58 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(179);
 }).prototype = p = new cjs.Sprite();
@@ -2917,7 +2917,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_58 = function() {
+(lib.CachedBmp_54 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(181);
 }).prototype = p = new cjs.Sprite();
@@ -2938,13 +2938,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_49 = function() {
-	this.initialize(ss["قالب القصص_atlas_73"]);
-	this.gotoAndStop(184);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_108 = function() {
 	this.initialize(ss["قالب القصص_atlas_60"]);
 	this.gotoAndStop(2);
@@ -2952,14 +2945,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_48 = function() {
+(lib.CachedBmp_50 = function() {
+	this.initialize(ss["قالب القصص_atlas_73"]);
+	this.gotoAndStop(184);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_49 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(185);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_50 = function() {
+(lib.CachedBmp_106 = function() {
+	this.initialize(ss["قالب القصص_atlas_26"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_48 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(186);
 }).prototype = p = new cjs.Sprite();
@@ -2973,7 +2980,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_42 = function() {
+(lib.CachedBmp_46 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(188);
 }).prototype = p = new cjs.Sprite();
@@ -2987,21 +2994,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_46 = function() {
+(lib.CachedBmp_42 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(190);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_44 = function() {
+(lib.CachedBmp_40 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(191);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_40 = function() {
+(lib.CachedBmp_44 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(192);
 }).prototype = p = new cjs.Sprite();
@@ -3022,7 +3029,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_55 = function() {
+(lib.CachedBmp_43 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(195);
 }).prototype = p = new cjs.Sprite();
@@ -3036,7 +3043,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_43 = function() {
+(lib.CachedBmp_55 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(197);
 }).prototype = p = new cjs.Sprite();
@@ -3050,21 +3057,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_32 = function() {
+(lib.CachedBmp_378 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(199);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_378 = function() {
+(lib.CachedBmp_30 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(200);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_30 = function() {
+(lib.CachedBmp_32 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(201);
 }).prototype = p = new cjs.Sprite();
@@ -3078,28 +3085,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_28 = function() {
+(lib.CachedBmp_26 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(203);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_26 = function() {
+(lib.CachedBmp_27 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(204);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_25 = function() {
+(lib.CachedBmp_28 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(205);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_27 = function() {
+(lib.CachedBmp_25 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(206);
 }).prototype = p = new cjs.Sprite();
@@ -3169,23 +3176,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_11 = function() {
-	this.initialize(ss["قالب القصص_atlas_73"]);
-	this.gotoAndStop(213);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.CachedBmp_12 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
-	this.gotoAndStop(214);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_102 = function() {
-	this.initialize(ss["قالب القصص_atlas_2"]);
-	this.gotoAndStop(0);
+	this.gotoAndStop(213);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3197,14 +3190,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.CachedBmp_7 = function() {
+(lib.CachedBmp_11 = function() {
+	this.initialize(ss["قالب القصص_atlas_73"]);
+	this.gotoAndStop(214);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_10 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(215);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_10 = function() {
+(lib.CachedBmp_7 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(216);
 }).prototype = p = new cjs.Sprite();
@@ -3221,6 +3221,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 (lib.CachedBmp_5 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(218);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_102 = function() {
+	this.initialize(ss["قالب القصص_atlas_2"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3246,9 +3253,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 
-(lib.Bitmap20 = function() {
-	this.initialize(ss["قالب القصص_atlas_34"]);
-	this.gotoAndStop(2);
+(lib.Asset51001 = function() {
+	this.initialize(ss["قالب القصص_atlas_73"]);
+	this.gotoAndStop(222);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3259,9 +3266,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 p.nominalBounds = new cjs.Rectangle(0,0,3333,2083);
 
 
-(lib.cro1 = function() {
-	this.initialize(ss["قالب القصص_atlas_58"]);
-	this.gotoAndStop(2);
+(lib.CP1 = function() {
+	this.initialize(ss["قالب القصص_atlas_72"]);
+	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3273,9 +3280,9 @@ p.nominalBounds = new cjs.Rectangle(0,0,3333,2083);
 
 
 
-(lib.CP1 = function() {
-	this.initialize(ss["قالب القصص_atlas_72"]);
-	this.gotoAndStop(17);
+(lib.cro1 = function() {
+	this.initialize(ss["قالب القصص_atlas_58"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3283,13 +3290,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3333,2083);
 (lib.cro2 = function() {
 	this.initialize(ss["قالب القصص_atlas_59"]);
 	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.crotit = function() {
-	this.initialize(ss["قالب القصص_atlas_73"]);
-	this.gotoAndStop(222);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3308,11 +3308,73 @@ p.nominalBounds = new cjs.Rectangle(0,0,3333,2083);
 
 
 
+(lib.CP2 = function() {
+	this.initialize(ss["قالب القصص_atlas_72"]);
+	this.gotoAndStop(18);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.dnd1 = function() {
+	this.initialize(img.dnd1);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
+
+
+(lib.dnd10 = function() {
+	this.initialize(img.dnd10);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2112,1257);
+
+
+(lib.dnd11 = function() {
+	this.initialize(img.dnd11);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
+
+
 (lib.cro3 = function() {
 	this.initialize(ss["قالب القصص_atlas_59"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
+
+
+(lib.crotit = function() {
+	this.initialize(ss["قالب القصص_atlas_73"]);
+	this.gotoAndStop(223);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.dnd4 = function() {
+	this.initialize(img.dnd4);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2119,1254);
+
+
+(lib.dnd5 = function() {
+	this.initialize(img.dnd5);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
+
+
+(lib.dnd6 = function() {
+	this.initialize(img.dnd6);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2113,1265);
+
+
+(lib.dnd0 = function() {
+	this.initialize(img.dnd0);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2114,1254);
+
+
+(lib.dnd8 = function() {
+	this.initialize(img.dnd8);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2113,1254);
 
 
 (lib.DDD = function() {
@@ -3322,88 +3384,15 @@ p.nominalBounds = new cjs.Rectangle(0,0,3333,2083);
 
 
 
-(lib.dnd0 = function() {
-	this.initialize(img.dnd0);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2114,1254);
-
-
-(lib.dnd1 = function() {
-	this.initialize(img.dnd1);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
-
-
-(lib.dnd3 = function() {
-	this.initialize(img.dnd3);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2112,1263);
-
-
-(lib.dnd11 = function() {
-	this.initialize(img.dnd11);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
-
-
-(lib.dnd2 = function() {
-	this.initialize(img.dnd2);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2114,1254);
-
-
-(lib.dnd6 = function() {
-	this.initialize(img.dnd6);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2113,1265);
-
-
-(lib.dnd4 = function() {
-	this.initialize(img.dnd4);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2119,1254);
-
-
-(lib.dnd8 = function() {
-	this.initialize(img.dnd8);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2113,1254);
-
-
-(lib.dnd10 = function() {
-	this.initialize(img.dnd10);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2112,1257);
-
-
 (lib.dnd7 = function() {
 	this.initialize(img.dnd7);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
 
 
-(lib.dnd5 = function() {
-	this.initialize(img.dnd5);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
-
-
-(lib.dnd9 = function() {
-	this.initialize(img.dnd9);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
-
-
-(lib.FFFFFIN = function() {
-	this.initialize(ss["قالب القصص_atlas_68"]);
-	this.gotoAndStop(9);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.image = function() {
-	this.initialize(ss["قالب القصص_atlas_73"]);
-	this.gotoAndStop(223);
+(lib.HHH = function() {
+	this.initialize(ss["قالب القصص_atlas_71"]);
+	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3415,114 +3404,50 @@ p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
 
 
 
-(lib.HistoiresCPpngcopy = function() {
-	this.initialize(ss["قالب القصص_atlas_72"]);
-	this.gotoAndStop(18);
+(lib.FFFFFIN = function() {
+	this.initialize(ss["قالب القصص_atlas_68"]);
+	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.lescartes = function() {
+(lib.image = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(224);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.mm = function() {
-	this.initialize(ss["قالب القصص_atlas_70"]);
-	this.gotoAndStop(11);
-}).prototype = p = new cjs.Sprite();
+(lib.dnd2 = function() {
+	this.initialize(img.dnd2);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2114,1254);
 
 
-
-(lib.Asset51001 = function() {
-	this.initialize(ss["قالب القصص_atlas_73"]);
-	this.gotoAndStop(225);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.nammm = function() {
-	this.initialize(ss["قالب القصص_atlas_71"]);
-	this.gotoAndStop(10);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.RTF = function() {
+(lib.HistoiresCPpngcopy = function() {
 	this.initialize(ss["قالب القصص_atlas_72"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.souligne0 = function() {
-	this.initialize(ss["قالب القصص_atlas_37"]);
-	this.gotoAndStop(1);
+(lib.lescartes = function() {
+	this.initialize(ss["قالب القصص_atlas_73"]);
+	this.gotoAndStop(225);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.HHH = function() {
-	this.initialize(ss["قالب القصص_atlas_71"]);
-	this.gotoAndStop(11);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.SOTETRE = function() {
+(lib.image4 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(226);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.souligne11 = function() {
-	this.initialize(ss["قالب القصص_atlas_36"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.souligne1 = function() {
-	this.initialize(ss["قالب القصص_atlas_32"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.souligne10 = function() {
-	this.initialize(ss["قالب القصص_atlas_30"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.souligne4 = function() {
-	this.initialize(ss["قالب القصص_atlas_32"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.souligne2 = function() {
-	this.initialize(ss["قالب القصص_atlas_35"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.souligne3 = function() {
-	this.initialize(ss["قالب القصص_atlas_30"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.souligne7 = function() {
-	this.initialize(ss["قالب القصص_atlas_38"]);
-	this.gotoAndStop(2);
+(lib.nammm = function() {
+	this.initialize(ss["قالب القصص_atlas_71"]);
+	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3534,16 +3459,78 @@ p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
 
 
 
-(lib.souligne6 = function() {
-	this.initialize(ss["قالب القصص_atlas_27"]);
+(lib.RTF = function() {
+	this.initialize(ss["قالب القصص_atlas_72"]);
+	this.gotoAndStop(21);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.scène2 = function() {
+	this.initialize(ss["قالب القصص_atlas_31"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.test10 = function() {
-	this.initialize(ss["قالب القصص_atlas_60"]);
-	this.gotoAndStop(4);
+(lib.mm = function() {
+	this.initialize(ss["قالب القصص_atlas_70"]);
+	this.gotoAndStop(11);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.souligne0 = function() {
+	this.initialize(ss["قالب القصص_atlas_36"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.souligne11 = function() {
+	this.initialize(ss["قالب القصص_atlas_36"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.dnd9 = function() {
+	this.initialize(img.dnd9);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
+
+
+(lib.souligne10 = function() {
+	this.initialize(ss["قالب القصص_atlas_30"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.souligne4 = function() {
+	this.initialize(ss["قالب القصص_atlas_32"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.souligne2 = function() {
+	this.initialize(ss["قالب القصص_atlas_35"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.souligne1 = function() {
+	this.initialize(ss["قالب القصص_atlas_32"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.souligne7 = function() {
+	this.initialize(ss["قالب القصص_atlas_37"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3555,9 +3542,30 @@ p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
 
 
 
-(lib.image4 = function() {
+(lib.souligne9 = function() {
+	this.initialize(ss["قالب القصص_atlas_41"]);
+	this.gotoAndStop(3);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.SOTETRE = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(227);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.souligne6 = function() {
+	this.initialize(ss["قالب القصص_atlas_27"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.test9 = function() {
+	this.initialize(ss["قالب القصص_atlas_49"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3576,44 +3584,23 @@ p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
 
 
 
-(lib.test9 = function() {
-	this.initialize(ss["قالب القصص_atlas_49"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.text0 = function() {
-	this.initialize(ss["قالب القصص_atlas_20"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.tetg2 = function() {
+(lib.tetg3 = function() {
 	this.initialize(ss["قالب القصص_atlas_69"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.tetg3 = function() {
+(lib.souligne5 = function() {
+	this.initialize(ss["قالب القصص_atlas_35"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.tetg2 = function() {
 	this.initialize(ss["قالب القصص_atlas_69"]);
 	this.gotoAndStop(9);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.text003 = function() {
-	this.initialize(ss["قالب القصص_atlas_25"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.text0001 = function() {
-	this.initialize(ss["قالب القصص_atlas_70"]);
-	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3625,21 +3612,36 @@ p.nominalBounds = new cjs.Rectangle(0,0,2112,1254);
 
 
 
+(lib.text003 = function() {
+	this.initialize(ss["قالب القصص_atlas_25"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.text0 = function() {
+	this.initialize(ss["قالب القصص_atlas_20"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.text1pngcopy = function() {
 	this.initialize(img.text1pngcopy);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,3387,927);
 
 
-(lib.text1 = function() {
-	this.initialize(img.text1);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,3387,927);
+(lib.text12 = function() {
+	this.initialize(ss["قالب القصص_atlas_64"]);
+	this.gotoAndStop(5);
+}).prototype = p = new cjs.Sprite();
 
 
-(lib.text13 = function() {
-	this.initialize(ss["قالب القصص_atlas_49"]);
-	this.gotoAndStop(3);
+
+(lib.souligne3 = function() {
+	this.initialize(ss["قالب القصص_atlas_30"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3651,23 +3653,49 @@ p.nominalBounds = new cjs.Rectangle(0,0,3387,927);
 
 
 
-(lib.text12 = function() {
-	this.initialize(ss["قالب القصص_atlas_64"]);
-	this.gotoAndStop(5);
+(lib.test10 = function() {
+	this.initialize(ss["قالب القصص_atlas_60"]);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.text14 = function() {
-	this.initialize(ss["قالب القصص_atlas_66"]);
-	this.gotoAndStop(6);
+(lib.text13 = function() {
+	this.initialize(ss["قالب القصص_atlas_49"]);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
+
+
+(lib.text2 = function() {
+	this.initialize(img.text2);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,3812,1620);
 
 
 (lib.text15 = function() {
 	this.initialize(ss["قالب القصص_atlas_72"]);
-	this.gotoAndStop(21);
+	this.gotoAndStop(22);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.text1 = function() {
+	this.initialize(img.text1);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,3387,927);
+
+
+(lib.text6 = function() {
+	this.initialize(ss["قالب القصص_atlas_55"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.text4 = function() {
+	this.initialize(ss["قالب القصص_atlas_58"]);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3677,12 +3705,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,3387,927);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
-
-
-(lib.text2 = function() {
-	this.initialize(img.text2);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,3812,1620);
 
 
 (lib.text8 = function() {
@@ -3699,23 +3721,15 @@ p.nominalBounds = new cjs.Rectangle(0,0,3812,1620);
 
 
 
-(lib.text6 = function() {
-	this.initialize(ss["قالب القصص_atlas_55"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
+(lib.titre1 = function() {
+	this.initialize(img.titre1);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,3732,323);
 
 
 (lib.TextInputcopy = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(228);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.souligne9 = function() {
-	this.initialize(ss["قالب القصص_atlas_41"]);
-	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3734,43 +3748,43 @@ p.nominalBounds = new cjs.Rectangle(0,0,3812,1620);
 
 
 
-(lib.titre4 = function() {
-	this.initialize(ss["قالب القصص_atlas_73"]);
-	this.gotoAndStop(230);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.titre5 = function() {
-	this.initialize(ss["قالب القصص_atlas_73"]);
-	this.gotoAndStop(231);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CP2 = function() {
-	this.initialize(ss["قالب القصص_atlas_72"]);
-	this.gotoAndStop(22);
-}).prototype = p = new cjs.Sprite();
-
-
-
 (lib.titre1pngcopy = function() {
 	this.initialize(img.titre1pngcopy);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,3732,323);
 
 
-(lib.scène2 = function() {
-	this.initialize(ss["قالب القصص_atlas_31"]);
-	this.gotoAndStop(1);
+(lib.titre8 = function() {
+	this.initialize(ss["قالب القصص_atlas_73"]);
+	this.gotoAndStop(230);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.titre8 = function() {
+(lib.titre4 = function() {
+	this.initialize(ss["قالب القصص_atlas_73"]);
+	this.gotoAndStop(231);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.titre5 = function() {
 	this.initialize(ss["قالب القصص_atlas_73"]);
 	this.gotoAndStop(232);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.text14 = function() {
+	this.initialize(ss["قالب القصص_atlas_66"]);
+	this.gotoAndStop(6);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.text0001 = function() {
+	this.initialize(ss["قالب القصص_atlas_70"]);
+	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3782,24 +3796,10 @@ p.nominalBounds = new cjs.Rectangle(0,0,3732,323);
 
 
 
-(lib.titre1 = function() {
-	this.initialize(img.titre1);
+(lib.dnd3 = function() {
+	this.initialize(img.dnd3);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,3732,323);
-
-
-(lib.souligne5 = function() {
-	this.initialize(ss["قالب القصص_atlas_35"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.text4 = function() {
-	this.initialize(ss["قالب القصص_atlas_58"]);
-	this.gotoAndStop(4);
-}).prototype = p = new cjs.Sprite();
-
+p.nominalBounds = new cjs.Rectangle(0,0,2112,1263);
 
 
 (lib.CachedBmp_97 = function() {
@@ -6228,64 +6228,22 @@ p.nominalBounds = new cjs.Rectangle(-14.9,-8.9,28.9,16.9);
 (lib.cswsouf3 = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
-	// Layer_1 copy 4
+	// Layer_1 copy 6
 	this.instance = new lib.mask("synched",0);
 	this.instance.setTransform(80,12.75,14.416,2.303);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).to({regX:-0.4,scaleX:36.6918,scaleY:1,x:17.3,y:31},24).wait(1));
 
-	// Layer_1 copy 5
-	this.instance_1 = new lib.mask("synched",0);
-	this.instance_1.setTransform(80,12.75,14.416,2.303);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).to({regX:-0.4,scaleX:36.6918,scaleY:1,x:17.3,y:-38},24).wait(1));
-
-	// Layer_1 copy 6
-	this.instance_2 = new lib.mask("synched",0);
-	this.instance_2.setTransform(80,12.75,14.416,2.303);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_2).to({regX:-0.4,scaleX:36.6918,scaleY:1,x:17.3,y:31},24).wait(1));
-
-	// Layer_1 copy 7
-	this.instance_3 = new lib.mask("synched",0);
-	this.instance_3.setTransform(80,12.75,14.416,2.303);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_3).to({regX:-0.4,scaleX:36.6918,scaleY:1,x:17.3,y:31},24).wait(1));
-
-	// Layer_1 copy 2
-	this.instance_4 = new lib.mask("synched",0);
-	this.instance_4.setTransform(80,12.75,14.416,2.303);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_4).to({regX:-0.4,scaleX:36.6918,scaleY:1,x:17.3,y:31},24).wait(1));
-
-	// Layer_1 copy 3
-	this.instance_5 = new lib.mask("synched",0);
-	this.instance_5.setTransform(80,12.75,14.416,2.303);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_5).to({regX:-0.4,scaleX:36.6918,scaleY:1,x:17.3,y:31},24).wait(1));
-
-	// Layer_1 copy
-	this.instance_6 = new lib.mask("synched",0);
-	this.instance_6.setTransform(80,12.75,14.416,2.303);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_6).to({regX:-0.4,scaleX:36.6918,scaleY:1,x:17.3,y:31},24).wait(1));
-
-	// Layer_1
-	this.instance_7 = new lib.mask("synched",0);
-	this.instance_7.setTransform(80,75.75,14.416,2.303);
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_7).to({regX:-0.4,scaleX:36.6918,scaleY:1,x:17.3,y:31},24).wait(1));
-
 	// Layer_2
-	this.instance_8 = new lib.Bitmap20();
-	this.instance_8.setTransform(-127,-43,0.2538,0.2272);
+	this.instance_1 = new lib.CachedBmp_480();
+	this.instance_1.setTransform(-299.9,-44.9,0.3333,0.3333);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_8).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(25));
 
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-228.6,-62.1,517.5,193.5);
+p.nominalBounds = new cjs.Rectangle(-299.9,-44.9,682,146);
 
 
 (lib.Symbol37_1 = function(mode,startPosition,loop) {
@@ -23704,105 +23662,105 @@ lib.properties = {
 	color: "#DBDBDB",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_313.png?1633717000821", id:"CachedBmp_313"},
-		{src:"images/boook.jpg?1633717000821", id:"boook"},
-		{src:"images/dnd0.jpg?1633717000821", id:"dnd0"},
-		{src:"images/dnd1.jpg?1633717000821", id:"dnd1"},
-		{src:"images/dnd3.jpg?1633717000821", id:"dnd3"},
-		{src:"images/dnd11.jpg?1633717000821", id:"dnd11"},
-		{src:"images/dnd2.jpg?1633717000821", id:"dnd2"},
-		{src:"images/dnd6.jpg?1633717000821", id:"dnd6"},
-		{src:"images/dnd4.jpg?1633717000821", id:"dnd4"},
-		{src:"images/dnd8.jpg?1633717000821", id:"dnd8"},
-		{src:"images/dnd10.jpg?1633717000821", id:"dnd10"},
-		{src:"images/dnd7.jpg?1633717000821", id:"dnd7"},
-		{src:"images/dnd5.jpg?1633717000821", id:"dnd5"},
-		{src:"images/dnd9.jpg?1633717000821", id:"dnd9"},
-		{src:"images/text1pngcopy.png?1633717000821", id:"text1pngcopy"},
-		{src:"images/text1.png?1633717000821", id:"text1"},
-		{src:"images/text2.png?1633717000821", id:"text2"},
-		{src:"images/titre1pngcopy.png?1633717000821", id:"titre1pngcopy"},
-		{src:"images/titre1.png?1633717000821", id:"titre1"},
-		{src:"images/CachedBmp_97.png?1633717000821", id:"CachedBmp_97"},
-		{src:"images/CachedBmp_20.png?1633717000821", id:"CachedBmp_20"},
-		{src:"images/CachedBmp_8.png?1633717000821", id:"CachedBmp_8"},
-		{src:"images/CachedBmp_9.png?1633717000821", id:"CachedBmp_9"},
-		{src:"images/قالب القصص_atlas_1.png?1633717000108", id:"قالب القصص_atlas_1"},
-		{src:"images/قالب القصص_atlas_2.png?1633717000108", id:"قالب القصص_atlas_2"},
-		{src:"images/قالب القصص_atlas_3.png?1633717000109", id:"قالب القصص_atlas_3"},
-		{src:"images/قالب القصص_atlas_4.png?1633717000109", id:"قالب القصص_atlas_4"},
-		{src:"images/قالب القصص_atlas_5.png?1633717000109", id:"قالب القصص_atlas_5"},
-		{src:"images/قالب القصص_atlas_6.png?1633717000109", id:"قالب القصص_atlas_6"},
-		{src:"images/قالب القصص_atlas_7.png?1633717000109", id:"قالب القصص_atlas_7"},
-		{src:"images/قالب القصص_atlas_8.png?1633717000110", id:"قالب القصص_atlas_8"},
-		{src:"images/قالب القصص_atlas_9.png?1633717000110", id:"قالب القصص_atlas_9"},
-		{src:"images/قالب القصص_atlas_10.png?1633717000110", id:"قالب القصص_atlas_10"},
-		{src:"images/قالب القصص_atlas_11.png?1633717000110", id:"قالب القصص_atlas_11"},
-		{src:"images/قالب القصص_atlas_12.png?1633717000110", id:"قالب القصص_atlas_12"},
-		{src:"images/قالب القصص_atlas_13.png?1633717000111", id:"قالب القصص_atlas_13"},
-		{src:"images/قالب القصص_atlas_14.png?1633717000111", id:"قالب القصص_atlas_14"},
-		{src:"images/قالب القصص_atlas_15.png?1633717000111", id:"قالب القصص_atlas_15"},
-		{src:"images/قالب القصص_atlas_16.png?1633717000111", id:"قالب القصص_atlas_16"},
-		{src:"images/قالب القصص_atlas_17.png?1633717000111", id:"قالب القصص_atlas_17"},
-		{src:"images/قالب القصص_atlas_18.png?1633717000112", id:"قالب القصص_atlas_18"},
-		{src:"images/قالب القصص_atlas_19.png?1633717000112", id:"قالب القصص_atlas_19"},
-		{src:"images/قالب القصص_atlas_20.png?1633717000112", id:"قالب القصص_atlas_20"},
-		{src:"images/قالب القصص_atlas_21.png?1633717000112", id:"قالب القصص_atlas_21"},
-		{src:"images/قالب القصص_atlas_22.png?1633717000112", id:"قالب القصص_atlas_22"},
-		{src:"images/قالب القصص_atlas_23.png?1633717000113", id:"قالب القصص_atlas_23"},
-		{src:"images/قالب القصص_atlas_24.png?1633717000113", id:"قالب القصص_atlas_24"},
-		{src:"images/قالب القصص_atlas_25.png?1633717000113", id:"قالب القصص_atlas_25"},
-		{src:"images/قالب القصص_atlas_26.png?1633717000113", id:"قالب القصص_atlas_26"},
-		{src:"images/قالب القصص_atlas_27.png?1633717000113", id:"قالب القصص_atlas_27"},
-		{src:"images/قالب القصص_atlas_28.png?1633717000114", id:"قالب القصص_atlas_28"},
-		{src:"images/قالب القصص_atlas_29.png?1633717000114", id:"قالب القصص_atlas_29"},
-		{src:"images/قالب القصص_atlas_30.png?1633717000114", id:"قالب القصص_atlas_30"},
-		{src:"images/قالب القصص_atlas_31.png?1633717000114", id:"قالب القصص_atlas_31"},
-		{src:"images/قالب القصص_atlas_32.png?1633717000114", id:"قالب القصص_atlas_32"},
-		{src:"images/قالب القصص_atlas_33.png?1633717000115", id:"قالب القصص_atlas_33"},
-		{src:"images/قالب القصص_atlas_34.png?1633717000115", id:"قالب القصص_atlas_34"},
-		{src:"images/قالب القصص_atlas_35.png?1633717000115", id:"قالب القصص_atlas_35"},
-		{src:"images/قالب القصص_atlas_36.png?1633717000116", id:"قالب القصص_atlas_36"},
-		{src:"images/قالب القصص_atlas_37.png?1633717000116", id:"قالب القصص_atlas_37"},
-		{src:"images/قالب القصص_atlas_38.png?1633717000116", id:"قالب القصص_atlas_38"},
-		{src:"images/قالب القصص_atlas_39.png?1633717000116", id:"قالب القصص_atlas_39"},
-		{src:"images/قالب القصص_atlas_40.png?1633717000116", id:"قالب القصص_atlas_40"},
-		{src:"images/قالب القصص_atlas_41.png?1633717000117", id:"قالب القصص_atlas_41"},
-		{src:"images/قالب القصص_atlas_42.png?1633717000117", id:"قالب القصص_atlas_42"},
-		{src:"images/قالب القصص_atlas_43.png?1633717000117", id:"قالب القصص_atlas_43"},
-		{src:"images/قالب القصص_atlas_44.png?1633717000117", id:"قالب القصص_atlas_44"},
-		{src:"images/قالب القصص_atlas_45.png?1633717000118", id:"قالب القصص_atlas_45"},
-		{src:"images/قالب القصص_atlas_46.png?1633717000118", id:"قالب القصص_atlas_46"},
-		{src:"images/قالب القصص_atlas_47.png?1633717000118", id:"قالب القصص_atlas_47"},
-		{src:"images/قالب القصص_atlas_48.png?1633717000118", id:"قالب القصص_atlas_48"},
-		{src:"images/قالب القصص_atlas_49.png?1633717000118", id:"قالب القصص_atlas_49"},
-		{src:"images/قالب القصص_atlas_50.png?1633717000119", id:"قالب القصص_atlas_50"},
-		{src:"images/قالب القصص_atlas_51.png?1633717000119", id:"قالب القصص_atlas_51"},
-		{src:"images/قالب القصص_atlas_52.png?1633717000119", id:"قالب القصص_atlas_52"},
-		{src:"images/قالب القصص_atlas_53.png?1633717000119", id:"قالب القصص_atlas_53"},
-		{src:"images/قالب القصص_atlas_54.png?1633717000120", id:"قالب القصص_atlas_54"},
-		{src:"images/قالب القصص_atlas_55.png?1633717000120", id:"قالب القصص_atlas_55"},
-		{src:"images/قالب القصص_atlas_56.png?1633717000120", id:"قالب القصص_atlas_56"},
-		{src:"images/قالب القصص_atlas_57.png?1633717000121", id:"قالب القصص_atlas_57"},
-		{src:"images/قالب القصص_atlas_58.png?1633717000121", id:"قالب القصص_atlas_58"},
-		{src:"images/قالب القصص_atlas_59.png?1633717000121", id:"قالب القصص_atlas_59"},
-		{src:"images/قالب القصص_atlas_60.png?1633717000121", id:"قالب القصص_atlas_60"},
-		{src:"images/قالب القصص_atlas_61.png?1633717000122", id:"قالب القصص_atlas_61"},
-		{src:"images/قالب القصص_atlas_62.png?1633717000122", id:"قالب القصص_atlas_62"},
-		{src:"images/قالب القصص_atlas_63.png?1633717000122", id:"قالب القصص_atlas_63"},
-		{src:"images/قالب القصص_atlas_64.png?1633717000123", id:"قالب القصص_atlas_64"},
-		{src:"images/قالب القصص_atlas_65.png?1633717000123", id:"قالب القصص_atlas_65"},
-		{src:"images/قالب القصص_atlas_66.png?1633717000123", id:"قالب القصص_atlas_66"},
-		{src:"images/قالب القصص_atlas_67.png?1633717000123", id:"قالب القصص_atlas_67"},
-		{src:"images/قالب القصص_atlas_68.png?1633717000124", id:"قالب القصص_atlas_68"},
-		{src:"images/قالب القصص_atlas_69.png?1633717000124", id:"قالب القصص_atlas_69"},
-		{src:"images/قالب القصص_atlas_70.png?1633717000124", id:"قالب القصص_atlas_70"},
-		{src:"images/قالب القصص_atlas_71.png?1633717000125", id:"قالب القصص_atlas_71"},
-		{src:"images/قالب القصص_atlas_72.png?1633717000125", id:"قالب القصص_atlas_72"},
-		{src:"images/قالب القصص_atlas_73.png?1633717000129", id:"قالب القصص_atlas_73"},
-		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1633717000821", id:"lib/jquery-3.4.1.min.js"},
-		{src:"components/sdk/anwidget.js?1633717000821", id:"sdk/anwidget.js"},
-		{src:"components/ui/src/textinput.js?1633717000821", id:"an.TextInput"}
+		{src:"images/CachedBmp_313.png?1633718030708", id:"CachedBmp_313"},
+		{src:"images/boook.jpg?1633718030708", id:"boook"},
+		{src:"images/dnd1.jpg?1633718030708", id:"dnd1"},
+		{src:"images/dnd10.jpg?1633718030708", id:"dnd10"},
+		{src:"images/dnd11.jpg?1633718030708", id:"dnd11"},
+		{src:"images/dnd4.jpg?1633718030708", id:"dnd4"},
+		{src:"images/dnd5.jpg?1633718030708", id:"dnd5"},
+		{src:"images/dnd6.jpg?1633718030708", id:"dnd6"},
+		{src:"images/dnd0.jpg?1633718030708", id:"dnd0"},
+		{src:"images/dnd8.jpg?1633718030708", id:"dnd8"},
+		{src:"images/dnd7.jpg?1633718030708", id:"dnd7"},
+		{src:"images/dnd2.jpg?1633718030708", id:"dnd2"},
+		{src:"images/dnd9.jpg?1633718030708", id:"dnd9"},
+		{src:"images/text1pngcopy.png?1633718030708", id:"text1pngcopy"},
+		{src:"images/text2.png?1633718030708", id:"text2"},
+		{src:"images/text1.png?1633718030708", id:"text1"},
+		{src:"images/titre1.png?1633718030708", id:"titre1"},
+		{src:"images/titre1pngcopy.png?1633718030708", id:"titre1pngcopy"},
+		{src:"images/dnd3.jpg?1633718030708", id:"dnd3"},
+		{src:"images/CachedBmp_97.png?1633718030708", id:"CachedBmp_97"},
+		{src:"images/CachedBmp_20.png?1633718030708", id:"CachedBmp_20"},
+		{src:"images/CachedBmp_8.png?1633718030708", id:"CachedBmp_8"},
+		{src:"images/CachedBmp_9.png?1633718030708", id:"CachedBmp_9"},
+		{src:"images/قالب القصص_atlas_1.png?1633718030035", id:"قالب القصص_atlas_1"},
+		{src:"images/قالب القصص_atlas_2.png?1633718030036", id:"قالب القصص_atlas_2"},
+		{src:"images/قالب القصص_atlas_3.png?1633718030036", id:"قالب القصص_atlas_3"},
+		{src:"images/قالب القصص_atlas_4.png?1633718030036", id:"قالب القصص_atlas_4"},
+		{src:"images/قالب القصص_atlas_5.png?1633718030036", id:"قالب القصص_atlas_5"},
+		{src:"images/قالب القصص_atlas_6.png?1633718030036", id:"قالب القصص_atlas_6"},
+		{src:"images/قالب القصص_atlas_7.png?1633718030037", id:"قالب القصص_atlas_7"},
+		{src:"images/قالب القصص_atlas_8.png?1633718030037", id:"قالب القصص_atlas_8"},
+		{src:"images/قالب القصص_atlas_9.png?1633718030037", id:"قالب القصص_atlas_9"},
+		{src:"images/قالب القصص_atlas_10.png?1633718030037", id:"قالب القصص_atlas_10"},
+		{src:"images/قالب القصص_atlas_11.png?1633718030037", id:"قالب القصص_atlas_11"},
+		{src:"images/قالب القصص_atlas_12.png?1633718030038", id:"قالب القصص_atlas_12"},
+		{src:"images/قالب القصص_atlas_13.png?1633718030038", id:"قالب القصص_atlas_13"},
+		{src:"images/قالب القصص_atlas_14.png?1633718030038", id:"قالب القصص_atlas_14"},
+		{src:"images/قالب القصص_atlas_15.png?1633718030038", id:"قالب القصص_atlas_15"},
+		{src:"images/قالب القصص_atlas_16.png?1633718030038", id:"قالب القصص_atlas_16"},
+		{src:"images/قالب القصص_atlas_17.png?1633718030039", id:"قالب القصص_atlas_17"},
+		{src:"images/قالب القصص_atlas_18.png?1633718030039", id:"قالب القصص_atlas_18"},
+		{src:"images/قالب القصص_atlas_19.png?1633718030039", id:"قالب القصص_atlas_19"},
+		{src:"images/قالب القصص_atlas_20.png?1633718030039", id:"قالب القصص_atlas_20"},
+		{src:"images/قالب القصص_atlas_21.png?1633718030039", id:"قالب القصص_atlas_21"},
+		{src:"images/قالب القصص_atlas_22.png?1633718030040", id:"قالب القصص_atlas_22"},
+		{src:"images/قالب القصص_atlas_23.png?1633718030040", id:"قالب القصص_atlas_23"},
+		{src:"images/قالب القصص_atlas_24.png?1633718030040", id:"قالب القصص_atlas_24"},
+		{src:"images/قالب القصص_atlas_25.png?1633718030040", id:"قالب القصص_atlas_25"},
+		{src:"images/قالب القصص_atlas_26.png?1633718030041", id:"قالب القصص_atlas_26"},
+		{src:"images/قالب القصص_atlas_27.png?1633718030041", id:"قالب القصص_atlas_27"},
+		{src:"images/قالب القصص_atlas_28.png?1633718030041", id:"قالب القصص_atlas_28"},
+		{src:"images/قالب القصص_atlas_29.png?1633718030041", id:"قالب القصص_atlas_29"},
+		{src:"images/قالب القصص_atlas_30.png?1633718030042", id:"قالب القصص_atlas_30"},
+		{src:"images/قالب القصص_atlas_31.png?1633718030042", id:"قالب القصص_atlas_31"},
+		{src:"images/قالب القصص_atlas_32.png?1633718030042", id:"قالب القصص_atlas_32"},
+		{src:"images/قالب القصص_atlas_33.png?1633718030042", id:"قالب القصص_atlas_33"},
+		{src:"images/قالب القصص_atlas_34.png?1633718030042", id:"قالب القصص_atlas_34"},
+		{src:"images/قالب القصص_atlas_35.png?1633718030043", id:"قالب القصص_atlas_35"},
+		{src:"images/قالب القصص_atlas_36.png?1633718030043", id:"قالب القصص_atlas_36"},
+		{src:"images/قالب القصص_atlas_37.png?1633718030043", id:"قالب القصص_atlas_37"},
+		{src:"images/قالب القصص_atlas_38.png?1633718030043", id:"قالب القصص_atlas_38"},
+		{src:"images/قالب القصص_atlas_39.png?1633718030044", id:"قالب القصص_atlas_39"},
+		{src:"images/قالب القصص_atlas_40.png?1633718030044", id:"قالب القصص_atlas_40"},
+		{src:"images/قالب القصص_atlas_41.png?1633718030044", id:"قالب القصص_atlas_41"},
+		{src:"images/قالب القصص_atlas_42.png?1633718030044", id:"قالب القصص_atlas_42"},
+		{src:"images/قالب القصص_atlas_43.png?1633718030044", id:"قالب القصص_atlas_43"},
+		{src:"images/قالب القصص_atlas_44.png?1633718030045", id:"قالب القصص_atlas_44"},
+		{src:"images/قالب القصص_atlas_45.png?1633718030045", id:"قالب القصص_atlas_45"},
+		{src:"images/قالب القصص_atlas_46.png?1633718030045", id:"قالب القصص_atlas_46"},
+		{src:"images/قالب القصص_atlas_47.png?1633718030045", id:"قالب القصص_atlas_47"},
+		{src:"images/قالب القصص_atlas_48.png?1633718030045", id:"قالب القصص_atlas_48"},
+		{src:"images/قالب القصص_atlas_49.png?1633718030046", id:"قالب القصص_atlas_49"},
+		{src:"images/قالب القصص_atlas_50.png?1633718030046", id:"قالب القصص_atlas_50"},
+		{src:"images/قالب القصص_atlas_51.png?1633718030046", id:"قالب القصص_atlas_51"},
+		{src:"images/قالب القصص_atlas_52.png?1633718030046", id:"قالب القصص_atlas_52"},
+		{src:"images/قالب القصص_atlas_53.png?1633718030047", id:"قالب القصص_atlas_53"},
+		{src:"images/قالب القصص_atlas_54.png?1633718030047", id:"قالب القصص_atlas_54"},
+		{src:"images/قالب القصص_atlas_55.png?1633718030047", id:"قالب القصص_atlas_55"},
+		{src:"images/قالب القصص_atlas_56.png?1633718030047", id:"قالب القصص_atlas_56"},
+		{src:"images/قالب القصص_atlas_57.png?1633718030048", id:"قالب القصص_atlas_57"},
+		{src:"images/قالب القصص_atlas_58.png?1633718030048", id:"قالب القصص_atlas_58"},
+		{src:"images/قالب القصص_atlas_59.png?1633718030048", id:"قالب القصص_atlas_59"},
+		{src:"images/قالب القصص_atlas_60.png?1633718030049", id:"قالب القصص_atlas_60"},
+		{src:"images/قالب القصص_atlas_61.png?1633718030049", id:"قالب القصص_atlas_61"},
+		{src:"images/قالب القصص_atlas_62.png?1633718030049", id:"قالب القصص_atlas_62"},
+		{src:"images/قالب القصص_atlas_63.png?1633718030050", id:"قالب القصص_atlas_63"},
+		{src:"images/قالب القصص_atlas_64.png?1633718030050", id:"قالب القصص_atlas_64"},
+		{src:"images/قالب القصص_atlas_65.png?1633718030050", id:"قالب القصص_atlas_65"},
+		{src:"images/قالب القصص_atlas_66.png?1633718030051", id:"قالب القصص_atlas_66"},
+		{src:"images/قالب القصص_atlas_67.png?1633718030051", id:"قالب القصص_atlas_67"},
+		{src:"images/قالب القصص_atlas_68.png?1633718030051", id:"قالب القصص_atlas_68"},
+		{src:"images/قالب القصص_atlas_69.png?1633718030052", id:"قالب القصص_atlas_69"},
+		{src:"images/قالب القصص_atlas_70.png?1633718030052", id:"قالب القصص_atlas_70"},
+		{src:"images/قالب القصص_atlas_71.png?1633718030052", id:"قالب القصص_atlas_71"},
+		{src:"images/قالب القصص_atlas_72.png?1633718030053", id:"قالب القصص_atlas_72"},
+		{src:"images/قالب القصص_atlas_73.png?1633718030057", id:"قالب القصص_atlas_73"},
+		{src:"https://code.jquery.com/jquery-3.4.1.min.js?1633718030708", id:"lib/jquery-3.4.1.min.js"},
+		{src:"components/sdk/anwidget.js?1633718030708", id:"sdk/anwidget.js"},
+		{src:"components/ui/src/textinput.js?1633718030708", id:"an.TextInput"}
 	],
 	preloads: []
 };
