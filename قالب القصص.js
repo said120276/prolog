@@ -3148,8 +3148,8 @@ p.nominalBounds = new cjs.Rectangle(0,0,3032,1777);
 
 
 (lib.CachedBmp_22 = function() {
-	this.initialize(ss["قالب القصص_atlas_65"]);
-	this.gotoAndStop(5);
+	this.initialize(ss["قالب القصص_atlas_72"]);
+	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
