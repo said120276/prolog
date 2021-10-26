@@ -17029,7 +17029,7 @@ p.nominalBounds = new cjs.Rectangle(-78.4,-51.6,79.5,102);
 		
 		stage.enableMouseOver(20);
 		
-		 //createjs.Ticker.timingMode = createjs.Ticker.RAF;
+		 createjs.Ticker.timingMode = createjs.Ticker.RAF;
 		
 		createjs.Touch.enable(stage, true, true);
 		
